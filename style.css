@@ -1,0 +1,44 @@
+body {
+    background: #000;
+    font-family:'Poppins', sans-serif ;
+}
+/*h2 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+}*/
+header {
+    width: 100%;
+}
+.video_header {
+    width: 100%;
+}
+.header_icons {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.teamcherry a{
+    width: 3%;
+    padding: 0;
+    margin: 2.5%;
+    display: flex;
+ 
+}
+.teamcherry a img {
+    width: 100%;
+}
+
+.social_media a {
+    width: 20px;
+    padding: 0;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+
+
+}
+.social_media a svg {
+    width: 100%;
+}
